@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['+18704740380', 'TWORLd', true],
+  ['+18704740380', 'TECHNOLANDbot', true], 
   [''] 
 ] //Number of owners
 
@@ -47,24 +47,24 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = 'ᴛʜᴇ TWORLDMD-ʙᴏᴛ'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.packname = 'TWORLD┃ᴮᴼᵀ' 
+global.author = '@ATWORLD' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/TWORLD\n' 
+global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOmf'
+global.fgsc = 'https://github.com/' 
+global.fgyt = 'https://youtube.com/@TWORLD'
+global.fgpyp = 'https://youtube.com/@TWORLD'
+global.fglog = 'https://telegra.ph/file/62333464ba8d6a28e1f4f.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '⌛'
+global.wait = '*⌛ _Charging..._*\n*TWORLDmdBOT▰▰▰▱▱▱▱▱*'
+global.rwait = '⌛ TWORLDmdBOT'
 global.dmoji = '🤭'
-global.done = '✅'
+global.done = '✅ TWORLDmdBOT'
 global.error = '❌' 
-global.xmoji = '🔥' 
+global.xmoji = '🔥 TWORLDmdBOT' 
 
 global.multiplier = 69 
 global.maxwarn = '3' // máxima advertencias
